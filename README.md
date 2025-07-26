@@ -6,6 +6,8 @@
 
 ### Tecnologias que uso no meu dia
 
+
+
 <div style="display: inline-block"> <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
 
@@ -13,3 +15,5 @@
 
   <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" alt="HTML5"/>
 </div>
+
+![HolandaDevX](https://github-readme-stats.vercel.app/api/top-langs/?username=HolandaDevx&hide_progress=true)
