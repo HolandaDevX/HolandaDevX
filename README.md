@@ -1,5 +1,8 @@
 ### Olá! Me chamo Joel Holanda 🙋🏽
 
+Sou apaixonado por tecnologia e resolvi trilhar o caminho para desenvolver software que vão impactar positivamente a vida das pessoas.
+
+
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-holanda-372911375/)
 
 ![HolandaDevX GitHub Stats](https://github-readme-stats.vercel.app/api?username=HolandaDevX&show_icons=true)
