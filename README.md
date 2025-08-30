@@ -2,6 +2,9 @@
 
 Sou apaixonado por tecnologia e resolvi trilhar o caminho para desenvolver software que vão impactar positivamente a vida das pessoas.
 
+Todos os projetos estão na branch master
+
+
 
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-holanda-372911375/)
 
